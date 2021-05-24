@@ -1,0 +1,18 @@
+<S> ::= a<S> | b<S> | c<S> | y<S> | z<S> | <A>
+<A> ::= &
+<S> ::= 0<S> | 1<S> | <A>
+<A> ::= &
+def
+se
+enquanto
+igual
+menor
+maior
+#
++
+-
+~
+/
+{
+}
+;

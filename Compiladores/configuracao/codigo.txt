@@ -1,0 +1,20 @@
+def a;
+def ab # 1000;
+a # 0 + 1011 ~ ab / a - 100;
+
+def cy # 1;
+a # a + cy;
+
+enquanto ab maior 100 {
+    def abcy # 1001;
+    se 1001 menor 1000 {
+        a # 1111;
+    }
+}
+
+def z;
+z # 0;
+
+se z menor 1 {
+    def abc # 10;
+}
